@@ -1,0 +1,54 @@
+@options
+@packages
+-classpath
+'/Users/khushbubibay/.m2/repository/org/json/json/20220924/json-20220924.jar:/Users/khushbubibay/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/Users/khushbubibay/work/chargebee-java/src/main/java:/Users/khushbubibay/work/chargebee-java/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023 <a href="http://www.chargebee.com">ChargeBee</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/khushbubibay/work/chargebee-java/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ChargeBee Java 3.2.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/khushbubibay/work/chargebee-java/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ChargeBee Java 3.2.1-SNAPSHOT API'
+com.chargebee
+com.chargebee.filters
+com.chargebee.filters.enums
+com.chargebee.internal
+com.chargebee.models
+com.chargebee.models.enums
+com.chargebee.gdata
+com.chargebee.exceptions
+/Users/khushbubibay/.m2/repository/org/json/json/20220924/json-20220924.jar = 1667803819000
+/Users/khushbubibay/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar = 1649233044000
+/Users/khushbubibay/work/chargebee-java/src/main/java = 1649226286000
+/Users/khushbubibay/work/chargebee-java/target/generated-sources/annotations = 1674041757000
+/Users/khushbubibay/work/chargebee-java/target/apidocs/constant-values.html = 1676966114000
+/Users/khushbubibay/work/chargebee-java/target/apidocs/overview-tree.html = 1676966115000
+/Users/khushbubibay/work/chargebee-java/target/apidocs/index.html = 1676966115000
+/Users/khushbubibay/work/chargebee-java/target/apidocs/overview-frame.html = 1676966114000
+/Users/khushbubibay/work/chargebee-java/target/apidocs/allclasses-noframe.html = 1676966115000
+/Users/khushbubibay/work/chargebee-java/target/apidocs/serialized-form.html = 1676966114000
+/Users/khushbubibay/work/chargebee-java/target/apidocs/index-all.html = 1676966115000
+/Users/khushbubibay/work/chargebee-java/target/apidocs/deprecated-list.html = 1676966115000
+/Users/khushbubibay/work/chargebee-java/target/apidocs/script.js = 1676966115000
+/Users/khushbubibay/work/chargebee-java/target/apidocs/stylesheet.css = 1676966115000
+/Users/khushbubibay/work/chargebee-java/target/apidocs/overview-summary.html = 1676966115000
+/Users/khushbubibay/work/chargebee-java/target/apidocs/help-doc.html = 1676966115000
+/Users/khushbubibay/work/chargebee-java/target/apidocs/allclasses-frame.html = 1676966115000
+/Users/khushbubibay/work/chargebee-java/target/apidocs/package-list = 1676966114000
