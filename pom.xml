@@ -3,6 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <packaging>jar</packaging>
+    <artifactId>java-sonar</artifactId>
 
     <name>ChargeBee Java</name>
     <description>Java client library for ChargeBee API</description>
