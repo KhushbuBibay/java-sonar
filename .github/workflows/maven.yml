@@ -21,3 +21,8 @@ jobs:
         cache: 'maven'
     - name: Maven Package
       run: mvn -B package --file pom.xml
+    - name: Analyze with SonarQube
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
+        SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+      run: export MAVEN_OPTS="-Xmx2560m" && mvn org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dsonar.java.source=1.8
